@@ -1,0 +1,78 @@
+[{
+  "id":1,
+  "name": "Yandex, LLC",
+  "symbol": "YNDX",
+  "currentValue": 422,
+  "previousValue": 402,
+  "imageName": "YNDX",
+  "isFavorite": true,
+  "currency" : "$"
+},{
+    "id":2,
+  "name": "Apple Inc.",
+  "symbol": "APPL",
+  "currentValue": 363,
+  "previousValue": 204,
+  "imageName": "APPL",
+  "isFavorite": true,
+  "currency" : "$"
+},{
+    "id":3,
+  "name": "Alphabet Class A",
+  "symbol": "GOOGL",
+  "currentValue": 161,
+  "previousValue": 167,
+  "imageName": "GOOGL",
+  "isFavorite": false,
+  "currency" : "$"
+},
+{
+    "id":4,
+  "name": "AMZN",
+  "symbol": "Amazon.com",
+  "currentValue": 249,
+  "previousValue": 380,
+  "imageName": "AMZN",
+  "isFavorite": false,
+  "currency" : "$"
+},
+{
+    "id":5,
+  "name": "Bank of America Corp",
+  "symbol": "BAC",
+  "currentValue": 900,
+  "previousValue": 976,
+  "imageName": "BAC",
+  "isFavorite": false,
+  "currency" : "$"
+},
+{
+    "id":6,
+  "name": "Microsoft Corporation",
+  "symbol": "MSFT",
+  "currentValue": 390,
+  "previousValue": 299,
+  "imageName": "MSFT",
+  "isFavorite": false,
+  "currency" : "$"
+},
+{
+    "id":7,
+  "name": "Tesla Motors",
+  "symbol": "TSLA",
+  "currentValue": 450,
+  "previousValue": 323,
+  "imageName": "TSLA",
+  "isFavorite": true,
+  "currency" : "$"
+},
+{
+    "id":8,
+  "name": "Mastercard",
+  "symbol": "MA",
+  "currentValue": 562,
+  "previousValue": 439,
+  "imageName": "MA",
+  "isFavorite": false,
+  "currency" : "$"
+}]
